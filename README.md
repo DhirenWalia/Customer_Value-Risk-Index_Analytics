@@ -1,9 +1,27 @@
 # EPSILON 7.0 — DEL-RPI Customer Analytics Framework
 
+---
+
 **Competition:** EPSILON 7.0 Analytics Case Competition  
 **Presented by:** Dhiren Walia (Dw7)  
 **Institution:** National Forensic Sciences University, New Delhi  
 **Course:** BBA-MBA Integrated, 1st Year  
+
+---
+
+## About
+
+This project was created for an analytics case competition.
+The objective was to evaluate customer value beyond revenue by considering growth, risk, and investment potential.
+I developed a framework to rank customers using multiple factors and presented the results through a Power BI dashboard.
+
+## Tools Used
+
+- Power BI
+- Microsoft Excel
+- PowerPoint
+- Data Analysis
+- Business Strategy
 
 ---
 
@@ -15,8 +33,6 @@ how much value you can actually unlock with investment.
 
 So I built **DEL-RPI** — a custom customer scoring index inspired 
 by energy dynamics and portfolio risk logic.
-
----
 
 ## The Framework — DEL-RPI
 
@@ -31,11 +47,11 @@ I modelled each customer as a portfolio of four forces:
 | **Friction (F)** | Value erosion — return rate, refund ratio, volatility |
 | **Strategic Leverage (SL)** | How much ₹1 of investment can unlock |
 
-**The Math:**
+## The Math:
 
-Base Energy (BE)         = SE + KE
-Risk-Adjusted Energy (RAE) = BE × (1 − F)
-DEL-RPI                  = (RAE × 0.6) + (SL × 0.4)
+| Base Energy (BE)         = SE + KE |
+| Risk-Adjusted Energy (RAE) = BE × (1 − F) |
+| DEL-RPI                  = (RAE × 0.6) + (SL × 0.4) |
 
 The 60-40 split: present stability matters more than hypothetical 
 upside — but leverage drives future transformation.
@@ -111,7 +127,12 @@ strategic action recommendations per segment
   and would need real business validation before deployment
 - The 60-40 weight in DEL-RPI is an assumption — 
   real-world testing could refine it
-- Would love to rebuild this in Python to make the model dynamic
+
+## Final Recommendations
+- Invest more in high-growth customer segments
+- Reduce friction in risky segments
+- Focus on stable and scalable customers
+- Improve portfolio quality, not just revenue
 
 ---
 
@@ -120,6 +141,3 @@ strategic action recommendations per segment
 - **Dashboard:** Open `.pbix` in Power BI Desktop (free from Microsoft)
 - **Presentation:** Open `.pptx` in PowerPoint or Google Slides
 - **Data:** Open `.xlsx` in Excel
-
-## Preview
-![Dashboard](dashboard_preview.png)
