@@ -23,8 +23,6 @@ I developed a framework to rank customers using multiple factors and presented t
 - Data Analysis
 - Business Strategy
 
----
-
 ## What I Built
 
 Most companies rank customers by revenue, frequency, or LTV.
@@ -48,10 +46,11 @@ I modelled each customer as a portfolio of four forces:
 | **Strategic Leverage (SL)** | How much ₹1 of investment can unlock |
 
 ## The Math:
-
-| Base Energy (BE)         = SE + KE |
-| Risk-Adjusted Energy (RAE) = BE × (1 − F) |
-| DEL-RPI                  = (RAE × 0.6) + (SL × 0.4) |
+| Function | Formula |
+|----------|---------|
+| Base Energy (BE)         | SE + KE |
+| Risk-Adjusted Energy (RAE) | BE × (1 − F) |
+| DEL-RPI                  | (RAE × 0.6) + (SL × 0.4) |
 
 The 60-40 split: present stability matters more than hypothetical 
 upside — but leverage drives future transformation.
