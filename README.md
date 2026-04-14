@@ -1,5 +1,16 @@
 # EPSILON 7.0 — DEL-RPI Customer Analytics Framework
 
+
+<p align="center" >
+  <!-- <img src="images/image1.jpg" alt="Image 1" width="45%"> -->
+  <!-- <img src="images/image2.jpg" alt="Image 2" width="45%"> -->
+  <!-- <img width="803" height="754" alt="1" src="https://github.com/user-attachments/assets/278d8b13-c5f3-401e-8566-1c91fc8910ce" />  -->
+  <img width="49%"  height="430px" alt="1" src="https://github.com/user-attachments/assets/278d8b13-c5f3-401e-8566-1c91fc8910ce" > 
+  <img width="49%" height="250px" alt="2" src="https://github.com/user-attachments/assets/2a812cb6-fcfc-48e1-b14a-25fb0593d77c">
+</p>
+<img width="1200" height="400" alt="33" src="https://github.com/user-attachments/assets/ab6553cc-8ae9-43dd-a705-6e8019a40ece" />
+
+
 ---
 
 **Competition:** EPSILON 7.0 Analytics Case Competition  
